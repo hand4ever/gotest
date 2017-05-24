@@ -1,2 +1,2 @@
 # go test for learning golang
-## go语言 学习
+## go语言 学习笔记
