@@ -1,2 +1,2 @@
 # go test for learning golang
-## go语言 学习笔记
+## 《Go语言编程》高清完整版电子书  <----- 学习笔记
